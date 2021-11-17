@@ -1,3 +1,5 @@
+import * as $ from 'jquery';
+
 $('.slider1').click(function () {
 	$('.active_fix').toggleClass('clicked');
 });
